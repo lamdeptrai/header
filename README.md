@@ -14,7 +14,7 @@ Tải gói này về, đặt vào thư mục
 
 
 ## Yêu cầu bắt buộc
-Bạn phải cài đặt trước các gói yêu cầu trước khi kích hoạt tính năng này
+Bạn phải cài đặt trước các gói Plugin bắt buộc trước khi kích hoạt tính năng này
 ```
 Gravity Form v4.0 or higher
 Advanced Custom Field Pro 5.7 or higher
