@@ -20,11 +20,13 @@ Toàn Năng Components Plugin
 Gravity Form v4.0 or higher
 Advanced Custom Field Pro 5.7 or higher
 ```
-Tiếp đó,import dữ liệu sẵn trong Project
+Tiếp đó, import dữ liệu sẵn trong Project
 ```
 /acf-export-2018-07-08.json
 /gravityforms-export-2018-07-08.json
 ```
+Ngoài ra, bạn phải cài thêm menu trong mục Giao diện > Menu, tên menu bắt buộc là **Main Menu**
+
 ## Tác giả
 
 * **Lam Phan** - *Toàn Năng Header Component* - [LamPhan](https://github.com/lamdeptrai)
