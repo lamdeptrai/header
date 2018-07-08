@@ -44,7 +44,7 @@
                     {
                         "key": "field_5b41dd183db58",
                         "label": "Tên dịch vụ",
-                        "name": "ten_dịch_vụ",
+                        "name": "ten_dich_vu",
                         "type": "text",
                         "instructions": "",
                         "required": 0,

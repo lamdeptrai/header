@@ -105,16 +105,16 @@ class TNCP_Header extends TNCP_ToanNang{
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6">
-                                <h2>Thiết kế website chuyên nghiệp</h2>
+                                <h2><?php echo get_field('tieu_de_banner','option')?></h2>
+                                <?php $dichvu = get_field('danh_sach_cac_dich_vu','option')?>
                                 <ul>
-                                    <li><a href="#">Website thương mại điện tử</a></li>
-                                    <li><a href="#">Website bán hàng online</a></li>
-                                    <li><a href="#">Website doanh nghiệp</a></li>
-                                    <li><a href="#">Thiết kế web theo yêu cầu</a></li>
-                                    <li><a href="#">Thiết kế mobile app</a></li>
+                                    <?php if(!empty($dichvu)): foreach ($dichvu as $item) :?>
+                                        <li><a href="<?php echo $item['duong_dan']?>"><?php echo $item['ten_dich_vu']?></a></li>
+                                    <?php endforeach; endif;?>
+
                                 </ul>
                                 <div class="header_toannang-slogon-cmt">
-                                    Tiêu chuẩn quốc tế - quản trị thông minh - bảo mật cao - responsive - tối ưu SEO & marketing
+                                    <?php echo get_field('cam_ket','option'); ?>
                                 </div>
                                 <div class="header_toannang-btn">
                                     <a href="#" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Yêu cầu tư vấn</a>
