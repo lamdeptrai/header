@@ -8,7 +8,7 @@ return [
     'Author URI'=> 'https://github.com/lamdeptrai',
     'License'=> 'GPLv2 or later',
     'Text Domain'=> '',
-    'Documentation' => 'https://github.com/lamdeptrai/toannang-header-component',
+    'Documentation' => 'https://github.com/lamdeptrai/header',
     'assets' => [
             'header' => 'header.css',
             'mmenu','mmenu/jquery.mmenu.js',
