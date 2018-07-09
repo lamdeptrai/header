@@ -2,7 +2,7 @@
 
 
 Đây là một gói giao diện mục **HEADER** được đóng gói theo Toàn Năng Component Plugin
-![alt text](https://raw.githubusercontent.com/lamdeptrai/toannang-header-component/master/screenshoot.jpg)
+![alt text](https://raw.githubusercontent.com/lamdeptrai/header/master/screenshoot.jpg)
 
 ## Bắt đầu
 
