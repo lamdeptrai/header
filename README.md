@@ -1,4 +1,4 @@
-# Toàn Năng Header Component #1
+# Header #1
 
 
 Đây là một gói giao diện mục **HEADER** được đóng gói theo Toàn Năng Component Plugin
